@@ -22,3 +22,5 @@
 
 
 ## Screenshots
+![Loading Screen](https://raw.githubusercontent.com/Emanuel-de-Jong/Console-VSRG-Trainer/master/Screenshots/Loading%20Screen.png)
+![In Game](https://raw.githubusercontent.com/Emanuel-de-Jong/Console-VSRG-Trainer/master/Screenshots/In%20Game.png)
