@@ -1,18 +1,18 @@
 # Console VSRG Trainer
  
 ## Information
-- Type: 
-- Language:
-- Programming language:
-- Framework: 
-- Library: 
+- Type: Console Application
+- Language: English
+- Programming language: C#
+- Framework: .NET
 	
 	
 ## Progress
 - Start date: 10.09.2018
 - Last change: 12.09.2018
-- Activity status:
-- Reason activity status:
+- Useable: Yes
+- Activity status: Abandoned
+- Reason activity status: Console was a bad choice for this kind of application
 - Completion status: 85%
 - Done:
 	- Main features
