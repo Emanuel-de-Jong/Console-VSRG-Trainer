@@ -14,11 +14,9 @@
 - Activity status: Abandoned
 - Reason activity status: Console was a bad choice for this kind of application
 - Completion status: 85%
-- Done:
-	- Main features
-- To do:
-	- Fix save system
-	- Improve key press recognision
 
 
 ## Screenshots
+![Loading Screen](https://raw.githubusercontent.com/Emanuel-de-Jong/Console-VSRG-Trainer/master/Screenshots/Loading%20Screen.png)
+
+![In Game](https://raw.githubusercontent.com/Emanuel-de-Jong/Console-VSRG-Trainer/master/Screenshots/In%20Game.png)
