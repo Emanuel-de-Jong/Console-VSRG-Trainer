@@ -1,22 +1,34 @@
 # Console VSRG Trainer
- 
+
+## Description
+My first take on a rhythm game trainer.
+Meaning it gives you a random combination of notes and waits for you to press the right keys.
+
+
+
 ## Information
 - Type: Console Application
 - Language: English
 - Programming language: C#
-- Framework: .NET
+- Frameworks and libraries: : .NET Framework
 	
 	
 ## Progress
-- Start date: 10.09.2018
-- Last change: 12.09.2018
-- Useable: Yes
+- Start date: 14.02.19
+- Last change: 15.02.19
 - Activity status: Abandoned
 - Reason activity status: Console was a bad choice for this kind of application
 - Completion status: 85%
+- Useable: Yes
+- Main features included: 
+-- Choosing a keymode
+-- Changing a wide range of options
+- Main features missing: 
+-- A (better) working key press detection
+-- Saving your settings
 
 
 ## Screenshots
-![Loading Screen](https://raw.githubusercontent.com/Emanuel-de-Jong/Console-VSRG-Trainer/master/Screenshots/Loading%20Screen.png)
+![Loading Screen](/Screenshots/Loading%20Screen.png)
 
-![In Game](https://raw.githubusercontent.com/Emanuel-de-Jong/Console-VSRG-Trainer/master/Screenshots/In%20Game.png)
+![In Game](/Screenshots/In%20Game.png)
