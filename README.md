@@ -21,11 +21,11 @@ Meaning it gives you a random combination of notes and waits for you to press th
 - Completion status: 85%
 - Useable: Yes
 - Main features included: 
--- Choosing a keymode
--- Changing a wide range of options
+	- Choosing a keymode
+	- Changing a wide range of options
 - Main features missing: 
--- A (better) working key press detection
--- Saving your settings
+	- A (better) working key press detection
+	- Saving your settings
 
 
 ## Screenshots
