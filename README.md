@@ -19,7 +19,8 @@ Meaning it gives you a random combination of notes and waits for you to press th
 - Activity status: Abandoned
 - Reason activity status: Console was a bad choice for this kind of application
 - Completion status: 85%
-- Useable: Yes
+- Useable: No
+- Reason useability: The key press detection is just too bad to use the main function of the program properly
 - Main features included: 
 	- Choosing a keymode
 	- Changing a wide range of options
