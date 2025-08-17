@@ -1,9 +1,20 @@
 # Console VSRG Trainer
-
-## Description
 My first take on a rhythm game trainer.
 Meaning it gives you a random combination of notes and waits for you to press the right keys.
 
+### Table of Contents
+- [About](#about)
+
+| | |
+| :---: | :---: |
+| ![Loading_Screen](/Screenshots/1-Loading_Screen.png) | ![In_Game](/Screenshots/2-In_Game.png) |
+
+## About
+| | |
+| --- | --- |
+| | - **Project Overview** - |
+| **Active Development:** | 2019-02-14 - 2019-02-15 |
+| **Maintenance:** |  |
 
 
 ## Information
@@ -27,9 +38,3 @@ Meaning it gives you a random combination of notes and waits for you to press th
 - Main features missing: 
 	- A (better) working key press detection
 	- Saving your settings
-
-
-## Screenshots
-![Loading Screen](/Screenshots/Loading%20Screen.png)
-
-![In Game](/Screenshots/In%20Game.png)
