@@ -1,32 +1,22 @@
 # Console VSRG Trainer
-My first take on a rhythm game trainer.
-Meaning it gives you a random combination of notes and waits for you to press the right keys.
+My first take on a rhythm game trainer. It gives you a random combination of notes and waits for you to press the right keys.
 
-### Table of Contents
-- [About](#about)
+**Active Development:** <br>
+**Last Change:** <br>
 
 | | |
 | :---: | :---: |
 | ![Loading_Screen](/Screenshots/1-Loading_Screen.png) | ![In_Game](/Screenshots/2-In_Game.png) |
 
-## About
-| | |
-| --- | --- |
-| | - **Project Overview** - |
-| **Active Development:** | 2019-02-14 - 2019-02-15 |
-| **Maintenance:** |  |
-
-
 ## Information
 - Type: Console Application
 - Language: English
 - Programming language: C#
-- Frameworks and libraries: : .NET Framework
-	
-	
+- Frameworks and libraries: .NET Framework
+
 ## Progress
-- Start date: 14.02.19
-- Last change: 15.02.19
+- Start date: 2019-02-14
+- Last change: 2019-02-15
 - Activity status: Abandoned
 - Reason activity status: Console was a bad choice for this kind of application
 - Completion status: 85%
