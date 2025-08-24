@@ -6,7 +6,7 @@ My first take on a rhythm game trainer. It gives you a random combination of not
 
 | | |
 | :---: | :---: |
-| ![Loading_Screen](/Screenshots/1-Loading_Screen.png) | ![In_Game](/Screenshots/2-In_Game.png) |
+| ![](/Screenshots/1-Loading_Screen.png) | ![](/Screenshots/2-In_Game.png) |
 
 ## Information
 - Type: Console Application
