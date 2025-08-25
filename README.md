@@ -1,8 +1,8 @@
 # Console VSRG Trainer
 My first take on a rhythm game trainer. It gives you a random combination of notes and waits for you to press the right keys.
 
-**Active Development:** <br>
-**Last Change:** <br>
+**Active Development:** 2019-02-14 - 2019-02-15<br>
+**Last Change:** 2019-02-15<br>
 
 | | |
 | :---: | :---: |
@@ -15,9 +15,7 @@ My first take on a rhythm game trainer. It gives you a random combination of not
 - Frameworks and libraries: .NET Framework
 
 ## Progress
-- Start date: 2019-02-14
-- Last change: 2019-02-15
-- Activity status: Abandoned
+- Activity status: Archived
 - Reason activity status: Console was a bad choice for this kind of application
 - Completion status: 85%
 - Useable: No
