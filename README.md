@@ -26,3 +26,4 @@ My first take on a rhythm game trainer. It gives you a random combination of not
 - Main features missing: 
 	- A (better) working key press detection
 	- Saving your settings
+ 
